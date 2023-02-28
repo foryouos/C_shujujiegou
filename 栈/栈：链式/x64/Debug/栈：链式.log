@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\学习笔记\数据结构与算法\栈：链式\main.cpp(12,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(971,1): message : 参见“OVERFLOW”的前一个定义
+  栈：链式.vcxproj -> E:\学习笔记\数据结构与算法\x64\Debug\栈：链式.exe

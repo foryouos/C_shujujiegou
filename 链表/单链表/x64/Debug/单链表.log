@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\学习笔记\数据结构与算法\单链表\main.cpp(12,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(971,1): message : 参见“OVERFLOW”的前一个定义
+E:\学习笔记\数据结构与算法\单链表\main.cpp(175,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“ElemType”
+E:\学习笔记\数据结构与算法\单链表\main.cpp(145): warning C4715: “ListInsert_L”: 不是所有的控件路径都返回值
+  单链表.vcxproj -> E:\学习笔记\数据结构与算法\x64\Debug\单链表.exe
